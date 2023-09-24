@@ -9,57 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorMangas
 build_property.RootNamespace = BlazorMangas
-build_property.ProjectDir = C:\Users\Leonardo\Documents\ApiMangas\blazor\BlazorMangas\BlazorMangas\
+build_property.ProjectDir = C:\Users\Leonardo\Documents\BlazorMangas\BlazorMangas\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Leonardo\Documents\ApiMangas\blazor\BlazorMangas\BlazorMangas
+build_property.MSBuildProjectDirectory = C:\Users\Leonardo\Documents\BlazorMangas\BlazorMangas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/App.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Pages/Autentica/Login.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Autentica/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0ZW50aWNhXExvZ2luLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Pages/Autentica/LoginDisplay.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Autentica/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0ZW50aWNhXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Pages/Autentica/Logout.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Autentica/Logout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0ZW50aWNhXExvZ291dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Pages/Autentica/NotAuthorized.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Autentica/NotAuthorized.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0ZW50aWNhXE5vdEF1dGhvcml6ZWQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Pages/Categorias/Categorias.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Categorias/Categorias.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhc1xDYXRlZ29yaWFzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Pages/Index.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Pages/Mangas/Mangas.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Mangas/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Mangas/MangaForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXE1hbmdhRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Mangas/Mangas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXE1hbmdhcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Shared/DisplayMessage.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Shared/DisplayMessage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERpc3BsYXlNZXNzYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/_Imports.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Shared/ImagemFoto.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEltYWdlbUZvdG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Shared/MainLayout.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ccud3dcvho
 
-[C:/Users/Leonardo/Documents/ApiMangas/blazor/BlazorMangas/BlazorMangas/Shared/NavMenu.razor]
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-k3jssqip06

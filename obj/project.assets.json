@@ -1967,11 +1967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leonardo\\Documents\\ApiMangas\\blazor\\BlazorMangas\\BlazorMangas\\BlazorMangas.csproj",
+      "projectUniqueName": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\BlazorMangas.csproj",
       "projectName": "BlazorMangas",
-      "projectPath": "C:\\Users\\Leonardo\\Documents\\ApiMangas\\blazor\\BlazorMangas\\BlazorMangas\\BlazorMangas.csproj",
+      "projectPath": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\BlazorMangas.csproj",
       "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leonardo\\Documents\\ApiMangas\\blazor\\BlazorMangas\\BlazorMangas\\obj\\",
+      "outputPath": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

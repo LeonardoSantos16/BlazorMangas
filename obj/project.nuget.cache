@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FK0KS4V032FNP5fR6ouGEP8FQZjzr4nY4Wrl2yo2fsMQ6nyBO6XN/jP0zXDuR1Rf36b518MlTEObaN6vTDL8pQ==",
+  "dgSpecHash": "mwcS5VzMuqu/VqAtvWNRjbvR/2zM1rMqG+oKrD3r7fz0yHia3x0Kp4zwBxQZQQiYoHzBzaRpwhWsWCipiTnDJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leonardo\\Documents\\ApiMangas\\blazor\\BlazorMangas\\BlazorMangas\\BlazorMangas.csproj",
+  "projectFilePath": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\BlazorMangas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leonardo\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\Leonardo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.11\\microsoft.aspnetcore.authorization.7.0.11.nupkg.sha512",
