@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "foH6hE7dhv62ld0IIj7I4GnduHJxv/4aFtZ1hElbSCQ=",
+  "Hash": "rIDlNWsFym2F+7iRKdqnNYrNIO2Ghp4cMtnetwD2OwE=",
   "Source": "BlazorMangas",
   "BasePath": "/",
   "Mode": "Root",
@@ -7242,6 +7242,23 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
+      "Identity": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\images\\a.jpg",
+      "SourceId": "BlazorMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\images\\app.css",
       "SourceId": "BlazorMangas",
       "SourceType": "Discovered",
@@ -7257,6 +7274,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\images\\F5cbvC7XAAA0_Ze.jpg",
+      "SourceId": "BlazorMangas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/F5cbvC7XAAA0_Ze.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\F5cbvC7XAAA0_Ze.jpg"
     },
     {
       "Identity": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\images\\semfoto.jpg",

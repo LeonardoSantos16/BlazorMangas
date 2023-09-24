@@ -69,6 +69,14 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\images\\F5cbvC7XAAA0_Ze.jpg",
+      "PackagePath": "staticwebassets\\images\\F5cbvC7XAAA0_Ze.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\images\\a.jpg",
+      "PackagePath": "staticwebassets\\images\\a.jpg"
+    },
+    {
       "Id": "C:\\Users\\Leonardo\\Documents\\BlazorMangas\\BlazorMangas\\wwwroot\\images\\app.css",
       "PackagePath": "staticwebassets\\images\\app.css"
     },

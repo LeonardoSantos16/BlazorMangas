@@ -48,12 +48,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXENyZWF0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Mangas/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Mangas/MangaForm.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXE1hbmdhRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Pages/Mangas/Mangas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuZ2FzXE1hbmdhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Shared/Confirma.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpcm1hLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Leonardo/Documents/BlazorMangas/BlazorMangas/Shared/DisplayMessage.razor]
